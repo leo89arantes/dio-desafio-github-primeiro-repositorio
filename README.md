@@ -3,5 +3,5 @@ desafio de Projeto sobre Git/GitHub
 
 
 ## Liks úteis
-[Sintaxe Básica Mardown (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Mardown] (https://www.markdownguide.org/basic-syntax/)
 
