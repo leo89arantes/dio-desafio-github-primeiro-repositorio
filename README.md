@@ -3,7 +3,7 @@
 Esse repositório será utilizado para gurdar todos os projetos do **Santander Bootcamp Fullstack Developer**
 
 
-![Santander - Bootcamp](C:\Users\arant\Documents\CURSOS\BootCamp - Santander\01 - Git-Github\dio-desafio-github-primeiro-repositorio\Imagens)
+![Santander - Bootcamp](/Images/logo_santander_bootcamp.png)
 
 
 
