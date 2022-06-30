@@ -3,7 +3,7 @@
 Esse repositório será utilizado para gurdar todos os projetos do **Santander Bootcamp Fullstack Developer**
 
 
-
+![Tux, the Linux mascot](images/logo_santander_bootcamp.png)
 
 
 
