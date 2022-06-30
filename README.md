@@ -1,5 +1,10 @@
 # Repositório do Desafio de Projeto Git/GitHub da DIO
-desafio de Projeto sobre Git/GitHub
+
+Esse repositório será utilizado para gurdar todos os projetos do Santander Bootcamp Fullstack Developer
+
+
+
+
 
 
 ## Liks úteis
