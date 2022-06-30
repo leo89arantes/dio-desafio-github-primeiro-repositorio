@@ -3,7 +3,7 @@
 Esse repositório será utilizado para gurdar todos os projetos do **Santander Bootcamp Fullstack Developer**
 
 
-![Santander - Bootcamp](/Images/logo_santander_bootcamp.png)
+![Santander - Bootcamp](/Imagens/logo_santander_bootcamp.png)
 
 
 
